@@ -1,23 +1,30 @@
-# Pronunciation Lessons
+# The AUDIO Codes (Pronunciation)
 
-Specific lessons targeting difficult sounds, silent letters, and stress patterns from the [Pronunciation Lessons Playlist](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56Bb5G2jhqDA_UNAOZ).
+!!! tip "The Output Engine"
+    **Objective:** Calibrate vocal output for clarity and native-level signal transmission.
 
-## Core Challenges
+## 1. The Vowel Spectrogram
 
-### 1. Silent Letters
+* **Short vs Long:** *Sit* (Short I) vs *Seat* (Long E).
+* **Schwa (/ə/):** The Neutral Sound. Most unstressed syllables become this.
+  * *Example:* "Teach**er**", "Banan**a**".
 
-- **Know**, **Comb**, **Knife**, **Debt**
-- There are rules, but also many exceptions.
+## 2. The TH Actuator
 
-### 2. Word Stress
+* **Voiceless (/θ/):** Air only. *Think, Thank, Three*.
+* **Voiced (/ð/):** Vibration. *This, That, Those*.
+* **Drill:** Stick tongue between teeth. Do not produce 'S' or 'Z'.
 
-English is a stress-timed language. Emphasizing the *wrong* syllable changes the word.
+## 3. The Intonation Wave
 
-- **REC**ord (noun) vs. Re**CORD** (verb).
+* **Falling Pitch:** Statements. "I like coffee $\searrow$."
+* **Rising Pitch:** Yes/No Questions. "Do you like coffee $\nearrow$?"
+* **Stress Timing:** English is stress-timed. Stressed syllables are longer; unstressed are compressed.
+  * *Robot Code (Wrong):* "I-want-to-go-to-the-store."
+  * *Fluent Code:* "Ia-wanna-**GO**-tda-**STORE**."
 
-### 3. Vowel Sounds
+## 4. The Linking Protocol
 
-- **Ship** (short i) vs. **Sheep** (long ee).
-- **Pen** (short e) vs. **Pan** (short a).
-
-Watch the playlist to hear the exact sounds.
+* **Consonant + Vowel:** "Clean up" $\rightarrow$ "Clee-nup".
+* **Vowel + Vowel:** "Do it" $\rightarrow$ "Do-wit".
+* **T-Flap (American):** "Water" $\rightarrow$ "Wader".

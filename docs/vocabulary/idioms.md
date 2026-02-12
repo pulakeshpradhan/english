@@ -1,27 +1,33 @@
-# Common English Idioms
+# The IDIOM Codes (Figurative Data)
 
-Idioms are expressions that have a figurative meaning separate from the literal meaning.
+!!! tip "The Encryption Layer"
+    **Objective:** Decode compiled phrases where Sum of Words $\neq$ Meaning.
 
-## Popular Idioms
+## 1. Communication Idioms
 
-### 1. Break the Ice
+* **Spill the beans:** Reveal secret data.
+  * *Code:* "He **spilled the beans** about the surprise party."
+* **Beat around the bush:** Avoid the main topic.
+  * *Code:* "Stop **beating around the bush** and give me the error logs."
+* **Hit the nail on the head:** Precise accuracy.
+  * *Code:* "Your analysis **hit the nail on the head**."
 
-**Meaning**: To start a conversation in a social setting.
-**Example**: *He told a joke to break the ice.*
+## 2. Action & Effort Idioms
 
-### 2. Piece of Cake
+* **Bite the bullet:** Face a difficult task.
+  * *Code:* "I have to **bite the bullet** and rewrite the code."
+* **Cut corners:** Reduce quality to save time.
+  * *Code:* "Don't **cut corners** on security."
+* **Call it a day:** Terminate execution (Go home).
+  * *Code:* "We've done enough. Let's **call it a day**."
+* **Get the show on the road:** Start the process.
+  * *Code:* "Let's **get the show on the road**."
 
-**Meaning**: Something very easy.
-**Example**: *The exam was a piece of cake.*
+## 3. Situation Idioms
 
-### 3. Costs an Arm and a Leg
-
-**Meaning**: Very expensive.
-**Example**: *This car costs an arm and a leg.*
-
-### 4. Hit the Hay
-
-**Meaning**: Go to sleep.
-**Example**: *It's late, I'm going to hit the hay.*
-
-Dive deeper into the [Idioms in English Playlist](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56Bb5G2jhqDA_UNAOZ).
+* **Piece of cake:** Very easy task.
+  * *Code:* "The exam was a **piece of cake**."
+* **The elephant in the room:** Obvious problem everyone ignores.
+  * *Code:* "The budget cut is the **elephant in the room**."
+* **In hot water:** In trouble.
+  * *Code:* "He is **in hot water** with the boss."

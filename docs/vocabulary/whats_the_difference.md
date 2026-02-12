@@ -1,27 +1,34 @@
-# What's The Difference?
+# The DISTINCTION Codes (Vocabulary)
 
-Clear explanations of commonly confused English words and phrases from the [What's The Difference Playlist](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56Bb5G2jhqDA_UNAOZ).
+!!! info "The Variable Definitions"
+    **Objective:** Resolve conflicts between similar variables to prevent semantic errors.
 
-## Popular Confusions
+## 1. Say vs. Tell
 
-### 1. Say vs. Tell
+* **Say:** Output data. No direct object required.
+  * *Structure:* Say + (that) + Clause.
+  * *Code:* "He **said** (that) he was busy."
+* **Tell:** Transmit data *to someone*. Object required.
+  * *Structure:* Tell + Person + Clause.
+  * *Code:* "He **told me** he was busy."
 
-**Say**: Focus on the words (She said she was tired).
-**Tell**: Focus on the information/listener (She told me she was tired).
+## 2. Make vs. Do
 
-### 2. Make vs. Do
+* **Do:** Execute action / Activity / Duty.
+  * *Code:* "Do homework", "Do business", "Do a favor".
+* **Make:** Create / Construct / Produce result.
+  * *Code:* "Make a list", "Make coffee", "Make a mistake".
 
-**Make**: Creating something (Make a cake, make a decision).
-**Do**: Executing an action/task (Do homework, do exercise).
+## 3. Listen vs. Hear
 
-### 3. Borrow vs. Lend
+* **Hear:** Passive input (Hardware sensor).
+  * *Code:* "I can **hear** the noise outside." (It enters my ears).
+* **Listen:** Active processing (Software focus).
+  * *Code:* "I am **listening** to music." (I am paying attention).
 
-**Borrow**: Take temporarily (Can I borrow your pen?).
-**Lend**: Give temporarily (I can lend you my pen).
+## 4. Look vs. Watch vs. See
 
-### 4. House vs. Home
-
-**House**: Physical building.
-**Home**: Emotional place where you live.
-
-Check the playlist for 19+ more lessons.
+* **See:** Ability to perceive (Passive).
+* **Look:** Direct eyes at static target (Active).
+* **Watch:** Observe moving target / duration (Active).
+  * *Code:* "**Look** at that picture." vs "**Watch** that movie."

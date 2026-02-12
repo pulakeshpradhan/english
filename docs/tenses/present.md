@@ -1,59 +1,30 @@
-# Present Tenses
+# Present Tenses (The Present Sector)
 
-The present tenses describe actions happening now, general truths, and actions connecting the past to the present.
+!!! info "The Timeline Protocol"
+    **Objective:** Map every action to a precise coordinate on the Time Axis.
 
-## 1. Present Simple
+*Usage:* Current operating state or universal truths.
 
-**Structure:** Subject + Verb (s/es for he/she/it)
-**Example:** *I work.* / *She works.*
+## 1. Simple Present (The Constant)
 
-**When to use:**
+* **Logic:** $Time = Now$ (Habitual/Fact).
+* **Code:** "I **write** code."
+* **Use Cases:** routines, facts, scheduled events.
 
-* **Habits/Routines:** I drink coffee every morning.
-* **Facts/General Truths:** The sun rises in the east.
-* **State Verbs:** I like chocolate. (Not "I am liking")
-* **Scheduled Future Events:** The train leaves at 6 PM.
+## 2. Present Continuous (The Process)
 
----
+* **Logic:** $Time = In Progress$.
+* **Code:** "I **am writing** code."
+* **Use Cases:** actions happening now, temporary situations.
 
-## 2. Present Continuous (Progressive)
+## 3. Present Perfect (The Bridge)
 
-**Structure:** Subject + am/is/are + Verb-ing
-**Example:** *I am working.* / *She is working.*
+* **Logic:** $Past \rightarrow Present$ Link.
+* **Code:** "I **have written** the code."
+* **Use Cases:** unspecified past time, result is relevant now.
 
-**When to use:**
+## 4. Present Perfect Continuous (The Duration)
 
-* **Happening Now:** I am typing an email right now.
-* **Temporary Situations:** I am staying at a hotel this week.
-* **New Habits:** He is eating a lot of vegetables these days.
-* **Future Plans (Arrangements):** I am meeting John tomorrow.
-
----
-
-## 3. Present Perfect
-
-**Structure:** Subject + have/has + Past Participle (V3)
-**Example:** *I have worked.* / *She has worked.*
-
-**When to use:**
-
-* **Unspecified Past Time:** I have seen that movie. (Time is not important).
-* **Life Experience:** Have you ever been to Paris?
-* **Started in Past, True Now:** We have known each other for 10 years.
-* **Recent Events with Result:** I have lost my keys (so I can't enter now).
-* **Keywords:** Just, already, yet, ever, never.
-
----
-
-## 4. Present Perfect Continuous
-
-**Structure:** Subject + have/has + been + Verb-ing
-**Example:** *I have been working.* / *She has been working.*
-
-**When to use:**
-
-* **Started in Past, Continuing Now:** It has been raining for two hours (and it is still raining).
-* **Finished Recently with Evidence:** The road is wet because it has been raining.
-* **Emphasis on Duration:** She has been studying all day.
-
-Watch the breakdown here: [Present Tenses Videos](https://www.youtube.com/playlist?list=PLmwr9polMHwv0CHWudORBYvrrOdmuwvj6).
+* **Logic:** $Start \rightarrow Now$ (Ongoing).
+* **Code:** "I **have been writing** for 2 hours."
+* **Use Cases:** emphasis on duration of simple activity.

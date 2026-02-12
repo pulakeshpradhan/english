@@ -1,27 +1,40 @@
-# Conditionals
+# The IF-THEN Codes (Conditionals)
 
-These sentences describe a result dependent on a condition, often starting with "If".
+!!! tip "The Dependency Rule"
+    **Rule:** IF [Condition] is met, THEN [Result] executes.
 
-## Types of Conditionals
+## 1. Zero Conditional (The Axiom)
 
-### 1. Zero Conditional
+* **Logic:** 100% Probability. Universal Truths.
+* **Syntax:** `If + Present Simple, Present Simple`
+* **Code:** "If you **heat** ice, it **melts**."
+* **Use Cases:** Scientific facts, rules, instructions.
 
-**Truth/Facts**: If you heat ice, it melts.
+## 2. First Conditional (The Prediction)
 
-### 2. First Conditional
+* **Logic:** >50% Probability. Real possibility.
+* **Syntax:** `If + Present Simple, Will + Verb`
+* **Code:** "If it **rains**, I **will stay** home."
+* **Use Cases:** Future plans, warnings, promises.
 
-**Real Future**: If it rains, I will stay home.
+## 3. Second Conditional (The Hypothetical)
 
-### 3. Second Conditional
+* **Logic:** 0-1% Probability. Imaginary Present/Future.
+* **Syntax:** `If + Past Simple, Would + Verb`
+* **Code:** "If I **won** the lottery, I **would buy** an island."
+* **Use Cases:** Dreams, advice ("If I were you...").
 
-**Unreal Present/Future**: If I won the lottery, I would buy an island.
+## 4. Third Conditional (The Regret)
 
-### 4. Third Conditional
+* **Logic:** 0% Probability. Impossible Past.
+* **Syntax:** `If + Past Perfect, Would Have + V3`
+* **Code:** "If I **had studied**, I **would have passed**."
+* **Use Cases:** Regrets, alternative past outcomes.
 
-**Regret/Past Unreal**: If I had studied, I would have passed.
+## 5. Mixed Conditionals (The Hybrid)
 
-### 5. Mixed Conditionals
-
-**Combines Past/Present**: If I had eaten breakfast, I wouldn't be hungry now.
-
-For more, watch the [Conditionals Playlist](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56Bb5G2jhqDA_UNAOZ).
+* **Logic:** Connecting Past Cause to Present Effect (or vice-versa).
+* **Syntax (Type 1):** `If + Past Perfect (Type 3), Would + Verb (Type 2)`
+  * *Code:* "If I **had taken** the job (Past), I **would be** rich now (Present)."
+* **Syntax (Type 2):** `If + Past Simple (Type 2), Would Have + V3 (Type 3)`
+  * *Code:* "If I **were** smarter (General), I **would have solved** it (Past)."

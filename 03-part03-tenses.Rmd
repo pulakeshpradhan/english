@@ -1,0 +1,74 @@
+# The TIME Codes (Tenses)
+
+\begin{tcolorbox}[colback=pBlue!10, colframe=pBlue, title=\textbf{The Timeline Protocol}]
+\textbf{Objective:} Map every action to a precise coordinate on the Time Axis (Past, Present, Future).
+\end{tcolorbox}
+
+## 1. The Present Sector {-}
+*Usage:* Current operating state or universal truths.
+
+### Simple Present (The Constant)
+*   **Logic:** $Time = Now$ (Habitual/Fact).
+*   **Code:** "I **write** code."
+*   **Use Cases:** routines, facts, scheduled events.
+
+### Present Continuous (The Process)
+*   **Logic:** $Time = In Progress$.
+*   **Code:** "I **am writing** code."
+*   **Use Cases:** actions happening now, temporary situations.
+
+### Present Perfect (The Bridge)
+*   **Logic:** $Past \rightarrow Present$ Link.
+*   **Code:** "I **have written** the code."
+*   **Use Cases:** unspecified past time, result is relevant now.
+
+### Present Perfect Continuous (The Duration)
+*   **Logic:** $Start \rightarrow Now$ (Ongoing).
+*   **Code:** "I **have been writing** for 2 hours."
+*   **Use Cases:** emphasis on duration of simple activity.
+
+## 2. The Past Sector {-}
+*Usage:* Archived data.
+
+### Simple Past (The Archive)
+*   **Logic:** $Time = Finished$.
+*   **Code:** "I **wrote** the code yesterday."
+*   **Use Cases:** completed actions at specific time.
+
+### Past Continuous (The Background)
+*   **Logic:** $Time = Interrupted/Parallel$.
+*   **Code:** "I **was writing** when the bug appeared."
+*   **Use Cases:** setting the scene, interrupted actions.
+
+### Past Perfect (The Pre-History)
+*   **Logic:** $Event A < Event B$.
+*   **Code:** "I **had written** the code before the meeting."
+*   **Use Cases:** action before another past action.
+
+### Past Perfect Continuous (The Pre-Duration)
+*   **Logic:** $Duration \rightarrow Past Event$.
+*   **Code:** "I **had been writing** for hours when it crashed."
+*   **Use Cases:** cause of a past state.
+
+## 3. The Future Sector {-}
+*Usage:* Predicted or Planned data.
+
+### Simple Future (The Prediction)
+*   **Logic:** $Time \rightarrow Future$.
+*   **Code:** "I **will write** the code."
+*   **Use Cases:** instant decisions, predictions (will), plans (going to).
+
+### Future Continuous (The Schedule)
+*   **Logic:** $Time = In Progress (Future)$.
+*   **Code:** "I **will be writing** at 8 PM."
+*   **Use Cases:** fixed future events.
+
+### Future Perfect (The Deadline)
+*   **Logic:** $Done < Future Time$.
+*   **Code:** "I **will have written** it by noon."
+*   **Use Cases:** completion by a specific future time.
+
+### Future Perfect Continuous (The Milestone)
+*   **Logic:** $Duration \rightarrow Future Time$.
+*   **Code:** "I **will have been writing** for 10 years by 2030."
+*   **Use Cases:** duration at a future point.

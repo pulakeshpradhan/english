@@ -1,54 +1,27 @@
-# Past Tenses
+# Past Tenses (The Past Sector)
 
-The past tenses describe actions that happened before now.
+*Usage:* Archived data.
 
-## 1. Past Simple
+## 1. Simple Past (The Archive)
 
-**Structure:** Subject + Verb-ed (or irregular form)
-**Example:** *I worked.* / *She went.*
+* **Logic:** $Time = Finished$.
+* **Code:** "I **wrote** the code yesterday."
+* **Use Cases:** completed actions at specific time.
 
-**When to use:**
+## 2. Past Continuous (The Background)
 
-* **Completed Action in Past:** I visited London last year.
-* **Series of Actions:** He woke up, washed his face, and dressed.
-* **Past Habits:** I played tennis when I was young.
-* **Keywords:** Yesterday, last week, in 2010, ago.
+* **Logic:** $Time = Interrupted/Parallel$.
+* **Code:** "I **was writing** when the bug appeared."
+* **Use Cases:** setting the scene, interrupted actions.
 
----
+## 3. Past Perfect (The Pre-History)
 
-## 2. Past Continuous
+* **Logic:** $Event A < Event B$.
+* **Code:** "I **had written** the code before the meeting."
+* **Use Cases:** action before another past action.
 
-**Structure:** Subject + was/were + Verb-ing
-**Example:** *I was working.* / *They were working.*
+## 4. Past Perfect Continuous (The Pre-Duration)
 
-**When to use:**
-
-* **Action in Progress at Specific Time:** At 8 PM last night, I was watching TV.
-* **Interrupted Action:** I was sleeping when the phone rang. (Past Continuous + Past Simple).
-* **Parallel Actions:** While I was cooking, he was reading.
-
----
-
-## 3. Past Perfect
-
-**Structure:** Subject + had + Past Participle (V3)
-**Example:** *I had worked.* / *She had worked.*
-
-**When to use:**
-
-* **Action Before Another Past Action:** When I arrived at the station, the train had already left. (First the train left, then I arrived).
-* **"The Past of the Past"**: To clarify the order of events.
-
----
-
-## 4. Past Perfect Continuous
-
-**Structure:** Subject + had + been + Verb-ing
-**Example:** *I had been working.*
-
-**When to use:**
-
-* **Duration Before a Past Moment:** I was tired because I had been working all day.
-* **Cause of a Past State:** The ground was wet because it had been raining.
-
-Watch detailed examples: [Past Tenses Videos](https://www.youtube.com/playlist?list=PLmwr9polMHwv0CHWudORBYvrrOdmuwvj6).
+* **Logic:** $Duration \rightarrow Past Event$.
+* **Code:** "I **had been writing** for hours when it crashed."
+* **Use Cases:** cause of a past state.

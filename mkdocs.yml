@@ -36,6 +36,7 @@ nav:
     - 'Parts of Speech': grammar/parts_of_speech.md
     - 'Conditionals': grammar/conditionals.md
     - 'Articles': grammar/articles.md
+    - 'The GRAMMAR Codes': grammar/grammar_codes.md
     - 'General Lessons': grammar/general_lessons.md
     - 'Common Mistakes': grammar/common_mistakes.md
   - Tenses:
@@ -46,6 +47,7 @@ nav:
   - Vocabulary:
     - 'Overview': vocabulary/index.md
     - 'Common Idioms': vocabulary/idioms.md
+    - 'Action Verbs': vocabulary/action_verbs.md
     - "What's The Difference?": vocabulary/whats_the_difference.md
     - 'General Lessons': vocabulary/lessons.md
     - 'Confusing Words': vocabulary/confusing_words.md
@@ -56,10 +58,11 @@ nav:
     - 'Advanced Spoken English': speaking/advanced_spoken.md
     - 'Common Sentences': speaking/common_sentences.md
     - 'American Accent Training': speaking/american_accent.md
-    - 'Pronunciation Lessons': speaking/pronunciation_lessons.md
+    - 'The AUDIO Codes (Pronunciation)': speaking/pronunciation_lessons.md
     - 'Simple Tricks': speaking/simple_tricks.md
   - Misc:
     - 'Best of Learn English Lab': misc/best_of.md
+    - 'The LAB Codes': misc/lab_codes.md
     - 'Live Episodes': misc/live_episodes.md
     - 'Free English Lessons': misc/free_english_lessons.md
   - Listening:

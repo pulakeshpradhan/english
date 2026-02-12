@@ -1,29 +1,31 @@
-# Advanced Spoken English
+# The FLUENCY Codes (Spoken English)
 
-Take your English to the next level with high-level vocabulary, idioms, and natural expressions.
+!!! tip "The Runtime Environment"
+    **Objective:** Optimization strategies for real-time processing and output generation.
 
-From the [Advanced Spoken English Series](https://www.youtube.com/playlist?list=PLzVm1SmjPKc_OnC56Bb5G2jhqDA_UNAOZ).
+## 1. Advanced Speaking Strategies
 
-## Topics Covered
+* **Chunking:** Do not buffer word-by-word. Buffer phrase-by-phrase.
+  * *Bad Buffer:* "I... am... thinking... about... it."
+  * *Good Buffer:* "I'm thinking about it." (1 chunk).
+* **Collocations:** Use pre-compiled word pairs.
+  * *Code:* "Heavy rain" (Correct) vs "Strong rain" (Error).
+* **Think in English:** Bypass the Translation Layer. Associate objects directly with English variables.
 
-### 1. IELTS Speaking
+## 2. Common Conversation Templates
 
-Specific strategies for the IELTS speaking test, including how to structure your answers for higher band scores.
+* **Introductions:** "Hi, I'm X. I work as Y."
+* **Small Talk:** "How's your day going?" / "Nice weather today."
+* **Opinions:** "If you ask me..." / "I reckon..."
+* **Agreement:** "Spot on." / "I couldn't agree more."
 
-### 2. Fluency Tricks
+## 3. Immersion Protocols
 
-Learn how to use "fillers" naturally (*well*, *you know*, *kind of*) to give yourself thinking time without breaking the flow.
+* **Passive Input:** Podcasts/Radio in background.
+* **Active Input:** Shadowing (Repeat immediately after speaker).
+* **Feedback Loop:** Record yourself $\rightarrow$ Compare with native signal $\rightarrow$ Adjust parameters.
 
-### 3. Advanced Phrases
+## 4. The Confidence Hack
 
-Replace "I think" with:
-
-- *In my opinion...*
-- *It seems to me that...*
-- *From my perspective...*
-
-Replace "very good" with:
-
-- *Outstanding*
-- *Remarkable*
-- *First-rate*
+* **Accept Errors:** Treat grammatical bugs as non-fatal warnings, not critical failures.
+* **Keep Flowing:** If a variable is missing, describe it using other words (Circumlocution) rather than stopping the process.

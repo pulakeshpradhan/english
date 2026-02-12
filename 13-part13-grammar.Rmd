@@ -1,0 +1,153 @@
+# The GRAMMAR Codes
+
+## 1-S-1-I Protocol (Structure) {-}
+
+\begin{tcolorbox}[colback=pBlue!10, colframe=pBlue, title=\textbf{The Universal Rule}]
+\textbf{1-S-1-I:} A sentence must have \textbf{1 Subject} and \textbf{1 Idea}.
+\end{tcolorbox}
+
+### The Problem: "Subject Overload"
+A run-on sentence happens when you pack two subjects/ideas into one space without a divider.
+
+> \textit{Bad Code:} "I went to the beach yesterday, it was hot."
+>
+> \textbf{Error:} Two subjects (**I** and **It**) = Two sentences needed.
+
+### The Trap: "The Comma Splice"
+Never gluewe two independent ideas with just a distinct comma. It is too weak to hold them.
+
+> \textit{Bad Code:} "I bought milk, it was expensive."
+
+### The Fix Kit: P-S-C
+Use the **P-S-C** method to repair run-ons:
+
+1.  **P - Period (The Hard Stop):**
+    *   Separate them completely.
+    *   \textit{Result:} "The model is accurate\textbf{.} It predicts floods well."
+2.  **S - Semicolon (The Soft Link):**
+    *   Link related ideas with a semicolon + transition.
+    *   \textit{Result:} "The model is accurate\textbf{; therefore,} it predicts floods well."
+3.  **C - Conjunction (The Glue):**
+    *   Use a comma + FANBOYS (For, And, Nor, But, Or, Yet, So).
+    *   \textit{Result:} "The model is accurate\textbf{, so} it predicts floods well."
+
+## The S-W-A-P Matrix (Vocabulary) {-}
+
+\begin{tcolorbox}[colback=pBlue!10, colframe=pBlue, title=\textbf{The Standard}]
+\textbf{Rule:} If you say it in a text message, \textbf{SWAP} it for the Academic Standard.
+\end{tcolorbox}
+
+### Tier 1: The "Lazy Words" Swap
+These words are vague fillers. Swap them for precision.
+
+| Informal (Delete This) | Formal (Write This) | The Upgrade Example |
+| :--- | :--- | :--- |
+| **So** | Extremely / Very | "The results were \textbf{extremely} significant." |
+| **Just** | Only / Simply | "The study used \textbf{only} two variables." |
+| **Way / A lot** | Many / Much | "The error was \textbf{much} lower." |
+| **Kind of** | Somewhat | "The trend was \textbf{somewhat} linear." |
+| **Big** | Significant | "The difference was \textbf{significant}." |
+| **Good** | Robust | "The method proved \textbf{robust}." |
+| **Bad** | Poor | "The data quality was \textbf{poor}." |
+
+### Tier 2: The "Chatty Words" Swap
+These words sound like speech. Swap them for writing.
+
+| Informal (Delete This) | Formal (Write This) | The Upgrade Example |
+| :--- | :--- | :--- |
+| **Get** | Obtain / Receive | "We \textbf{obtained} the satellite data." |
+| **Of course** | Clearly / Evidently | "The pattern \textbf{clearly} indicates stress." |
+| **Awesome** | Incredible | "The accuracy was \textbf{incredible}." |
+| **Again and Again** | Repeatedly | "The test failed \textbf{repeatedly}." |
+| **Whole** | Entire | "The \textbf{entire} study area." |
+| **Kids** | Children | "The \textbf{children} were surveyed." |
+| **Show** | Illustrate | "Figure 1 \textbf{illustrates} the trend." |
+| **Look at** | Examine | "We \textbf{examined} the samples." |
+| **Talk about** | Discuss | "This section \textbf{discusses} the results." |
+
+### Tier 3: The "Weak Links" Swap
+These phrases dilute your authority.
+
+| Informal (Delete This) | Formal (Write This) | The Upgrade Example |
+| :--- | :--- | :--- |
+| **On the other hand** | Contrastingly | "\textbf{Contrastingly}, the new method is faster." |
+| **Got to** | Must / Need to | "We \textbf{must} verify the data." |
+| **Ask** | Enquire | "We will \textbf{enquire} about the dataset." |
+| **Used to** | Accustomed to | "The system is \textbf{accustomed to} noise." |
+| **In a nutshell** | Briefly | "\textbf{Briefly}, the process involves..." |
+| **Lots of** | Numerous | "There are \textbf{numerous} factors." |
+| **Sort of** | Partially | "The hypothesis was \textbf{partially} supported." |
+
+## The B-R-I-D-G-E System (Transitions) {-}
+
+\begin{tcolorbox}[colback=pBlue!10, colframe=pBlue, title=\textbf{The Flow Rule}]
+\textbf{Rule:} Never leave a sentence stranded. Build a \textbf{BRIDGE} to the next idea.
+\end{tcolorbox}
+
+### Bridge Types
+Select the right bridge for your logic path:
+
+*   **(+) THE ADDER:** Adds more of the same.
+    *   *Code:* **In addition, Moreover, Furthermore.**
+    *   *Example:* "The data is accurate. **Moreover,** it is open-source."
+*   **(-) THE CONTRASTER:** Changes direction.
+    *   *Code:* **However, Conversely, Although, In contrast.**
+    *   *Example:* "The layout is good. **However,** the text is too small."
+*   **(=) THE RESULT:** Shows the output.
+    *   *Code:* **Therefore, Consequently, Thus, As a result.**
+    *   *Example:* "It rained heavily. **Consequently,** the river flooded."
+*   **(>) THE SEQUENCER:** Shows order.
+    *   *Code:* **First, Next, Finally.**
+    *   *Example:* "**First,** we clean the data. **Next,** we analyze it."
+
+### The Punctuation Key
+When using a Bridge Word, remember the Punctuation Code:
+
+> **[Punctuator] + [Bridge Word] + [Comma]**
+
+*   \textit{Option A:} The test failed\textbf{. However,} we tried again.
+*   \textit{Option B:} The test failed\textbf{; however,} we tried again.
+
+## The A-C-T-I-V-E Switch (Voice) {-}
+
+\begin{tcolorbox}[colback=pBlue!10, colframe=pBlue, title=\textbf{The Agency Rule}]
+\textbf{Rule:} Focus on the \textbf{Actor}, not the Action. Active voice creates stronger, clearer sentences.
+\end{tcolorbox}
+
+### The Passive Trap
+Passive voice makes sentences weak and wordy. It hides who is doing the work.
+
+> \textit{Weak Code:} "The survey was conducted by the research team."
+>
+> \textbf{Critique:} The actor (team) is at the end. It lacks energy.
+
+### The Active Fix
+Flip the sentence. Put the actor first.
+
+> \textit{Strong Code:} "The research team conducted the survey."
+>
+> \textbf{Why:} It is direct, concise, and powerful.
+
+### When to use Passive?
+Only use passive when the actor is unknown, irrelevant, or obvious.
+*   \textit{Correct:} "The samples were stored at -20°C." (Who stored them doesn't matter; the temperature matters).
+
+## The P-A-R-A-L-L-E-L Rails (Consistency) {-}
+
+\begin{tcolorbox}[colback=pBlue!10, colframe=pBlue, title=\textbf{The Pattern Rule}]
+\textbf{Rule:} Items in a list or comparison must follow the same grammatical pattern (noun-noun, verb-verb).
+\end{tcolorbox}
+
+### The Mismatch Error
+Mixing verbs, nouns, and phrases breaks the flow and confuses the reader.
+
+> \textit{Bad Code:} "The goals are to reduce waste, increasing efficiency, and cost management."
+>
+> \textbf{Error:} Three distinct forms (Infinitive phrase, Gerund, Noun phrase).
+
+### The Parallel Fix
+Make them match. Align the rails.
+
+> \textit{Good Code:} "The goals are to \textbf{reduce} waste, \textbf{increase} efficiency, and \textbf{manage} costs." (All Verbs).
+>
+> \textit{Alternative:} "The goals are waste reduction, efficiency increase, and cost management." (All Nouns).

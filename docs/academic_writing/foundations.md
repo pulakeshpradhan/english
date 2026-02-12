@@ -1,0 +1,121 @@
+# Foundations of Academic Writing
+
+## Core Writing Principles
+
+Effective academic writing is characterized by precision and focus. Follow these core principles:
+
+* **Be Direct:** Write short, factual sentences. Avoid unnecessary fluff.
+* **Single Focus:** Convey one main piece of information per sentence.
+* **Active Voice:** Use active voice to shorten sentences and improve clarity.
+  * *Passive:* "The data was analyzed by us." (6 words)
+  * *Active:* "We analyzed the data." (4 words)
+* **Abbreviations:** Always define abbreviations upon first use.
+* **Grammar:** Strictly avoid grammatical errors; they reduce reader trust.
+* **Figures:** Limit figures to $\le$ 12 (recommended for most standard journals).
+
+## Structuring Your Argument
+
+### Manuscript Structure: The IMRaD Model
+
+Most scientific papers follow the **IMRaD** structure, often visualized as an **hourglass** shape—starting broad, narrowing down, and widening out again.
+
+* **Introduction (Broad):** Define the problem and its importance. Review existing literature to identify the gap. State your hypothesis or objective.
+* **Methods (Narrow):** Describe exactly what you did. This section must be technical and specific to ensure reproducibility.
+* **Results (Narrow):** Present the findings objectively without interpretation. Use tables and figures to summarize data.
+* **Discussion (Broad):** Interpret the results. Explain their significance, link them back to the Introduction, and discuss broader implications or future work.
+
+### Narrative Structure: OCAR
+
+While IMRaD provides the skeleton, **OCAR** (based on *Houston, We Have a Narrative*) ensures the story flows logically:
+
+* **Opening:** Set the scene and introduce the characters (your study subject).
+* **Challenge:** Introduce the problem or question that typically starts with "But..." or "However...".
+* **Action:** Describe the journey (Methods and Results) taken to resolve the challenge.
+* **Resolution:** State the outcome (Discussion) and the new state of understanding.
+
+### The ABT Framework
+
+From Randy Olson's *Houston, We Have a Narrative*, this is the simplest template for an abstract or elevator pitch:
+
+* **And:** Connects the initial facts (Context).
+* **But:** Introduces the conflict or problem (The "Why").
+* **Therefore:** Presents the solution or result (Your Research).
+  * *Example:* "We know X **AND** we know Y, **BUT** we don't understand Z, **THEREFORE** we conducted this study..."
+
+### Introduction Structure: CARS Model
+
+For writing robust introductions, Swales' **Create a Research Space (CARS)** model is the gold standard:
+
+1. **Move 1: Establishing a Territory:** Claim importance and review previous work.
+2. **Move 2: Establishing a Niche:** Indicate a gap, question, or problem in the existing work.
+3. **Move 3: Occupying the Niche:** State the nature of your present work and outline its structure.
+
+### Paragraph Structure
+
+A well-written paragraph is a self-contained unit of thought. Follow the **TEAL** structure:
+
+1. **Topic Sentence:** The first sentence should state the main idea of the paragraph clearly.
+2. **Evidence/Explanation:** Provide data, citations, or logical reasoning to support the topic sentence.
+3. **Analysis:** Explain *why* the evidence supports the claim; don't just list facts.
+4. **Link (Transition):** Conclude the paragraph by linking it to the next point or back to the main thesis.
+
+### Objectivity and Tone
+
+Academic writing usually aims for objectivity.
+
+* **Avoid "I think" or "I feel":** Focus on the evidence, not your mental state.
+  * *Bad:* "I think this result is significant."
+  * *Good:* "The data indicates this result is significant."
+* **Eliminate Emotional Language:** Words like "terrible," "wonderful," or "tragic" are subjective. Use neutral descriptors like "adverse," "beneficial," or "severe."
+
+### Hedging (Cautious Language)
+
+Science is rarely absolute. Avoid overgeneralization by using "hedging" language where appropriate.
+
+* **Absolute (Risky):** "This study *proves* that X causes Y."
+* **Hedged (Safe):** "This study *suggests* that X *may* contribute to Y."
+* **Useful words:** Appear, suggest, indicate, likely, possibly, potentially.
+
+## Publication Requirements
+
+To secure publication in high-impact journals, your work must generally meet these criteria:
+
+* **Originality:** Present novel, unpublished contributions.
+* **Impact:** Demonstrate a significant advancement in the field.
+* **Context:** Link to existing research and provide necessary background.
+* **Methodology:** Use and justify appropriate research methods.
+* **Visualization:** Include clear, high-quality figures.
+* **Quality:** Ensure clarity, ethics, and a logical flow.
+* **Analysis:** Provide thorough data analysis and robust interpretation.
+* **Review Process:** Strictly follow journal guidelines and address peer review requirements.
+
+### Common Pitfalls
+
+* **Common Mistakes:** Avoid plagiarism, poor citations, and ambiguous writing.
+* **Critical Errors:** Never skip methodology steps or misrepresent data.
+* **Ethical Issues:** Maintain research integrity and proper attribution at all costs.
+* **Format Issues:** Follow journal formatting guidelines strictly.
+
+## Evaluating Research Quality
+
+Whether reviewing your own work or that of others, assess validity across these dimensions:
+
+### Presentation Quality
+
+* **Suitability of Title:** Is the title clear, relevant, and representative of the research topic?
+* **Research Methodology:** Are methods appropriate, clearly explained, and reproducible?
+* **Data Presentation:** Is data well-organized? Are charts/tables clear and correctly interpreted?
+* **Originality:** Does the work offer novel insights beyond existing literature?
+
+### Research Content
+
+* **Correlation with Previous Research:** How well does the work link to, confirm, or contrast prior studies?
+* **Conclusions & Recommendations:** Are conclusions supported by results? Are recommendations practical?
+* **Clarity of Arguments:** Is the argument flow logical and well-structured?
+
+### Delivery & Visuals (For Presentations)
+
+* **Effectiveness:** Did the presenter communicate ideas confidently?
+* **Slides & Graphics:** Were visuals clear and supportive?
+* **Time Management:** Did the presentation finish within the allotted time?
+* **Response to Questions:** Ability to answer clearly and engage constructively.

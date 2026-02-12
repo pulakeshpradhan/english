@@ -63,6 +63,11 @@ nav:
   - Soft Skills:
     - 'Overview': soft_skills/index.md
     - 'Communication & Body Language': soft_skills/communication.md
+  - Academic Writing:
+    - 'Overview': academic_writing/index.md
+    - 'Foundations': academic_writing/foundations.md
+    - 'Grammar & Structure': academic_writing/structure.md
+    - 'Vocabulary & Flow': academic_writing/vocabulary.md
 
 markdown_extensions:
   - admonition

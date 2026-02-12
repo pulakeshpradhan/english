@@ -61,6 +61,7 @@ nav:
   - Misc:
     - 'Best of Learn English Lab': misc/best_of.md
     - 'Live Episodes': misc/live_episodes.md
+    - 'Free English Lessons': misc/free_english_lessons.md
   - Listening:
     - 'Overview': listening/index.md
     - 'Advanced Listening': listening/advanced.md
@@ -72,6 +73,8 @@ nav:
     - 'Foundations': academic_writing/foundations.md
     - 'Grammar & Structure': academic_writing/structure.md
     - 'Vocabulary & Flow': academic_writing/vocabulary.md
+
+copyright: Copyright &copy; 2026 Pulakesh Pradhan
 
 markdown_extensions:
   - admonition

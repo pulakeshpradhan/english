@@ -4,7 +4,7 @@ This section covers essential rules of English grammar, focusing on structured l
 
 ### Tenses
 
-- **[A Full Course on All Tenses](tenses.md)**: A complete guide to every English tense with examples.
+- **[A Full Course on All Tenses](../tenses/index.md)**: A complete guide to every English tense with examples.
 
 ### Key Components
 

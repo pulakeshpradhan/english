@@ -1,0 +1,69 @@
+site_name: Learn English Lab
+site_description: 'An unofficial guide to learning English, based on LearnEnglishLab YouTube videos.'
+site_author: 'Pulakesh Pradhan'
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  icon:
+    logo: material/school
+
+nav:
+  - Home: index.md
+  - Grammar:
+    - 'Overview': grammar/index.md
+    - 'All Tenses Course': grammar/tenses.md
+    - 'Verbs': grammar/verbs.md
+    - 'Modal Verbs': grammar/modal_verbs.md
+    - 'Parts of Speech': grammar/parts_of_speech.md
+    - 'Conditionals': grammar/conditionals.md
+    - 'Articles': grammar/articles.md
+    - 'General Lessons': grammar/general_lessons.md
+    - 'Common Mistakes': grammar/common_mistakes.md
+  - Vocabulary:
+    - 'Overview': vocabulary/index.md
+    - 'Common Idioms': vocabulary/idioms.md
+    - "What's The Difference?": vocabulary/whats_the_difference.md
+    - 'General Lessons': vocabulary/lessons.md
+    - 'Confusing Words': vocabulary/confusing_words.md
+    - 'Advanced Vocabulary': vocabulary/advanced.md
+  - Speaking & Pronunciation:
+    - 'Overview': speaking/index.md
+    - 'How to Become Fluent': speaking/fluency_guide.md
+    - 'Advanced Spoken English': speaking/advanced_spoken.md
+    - 'Common Sentences': speaking/common_sentences.md
+    - 'American Accent Training': speaking/american_accent.md
+    - 'Pronunciation Lessons': speaking/pronunciation_lessons.md
+    - 'Simple Tricks': speaking/simple_tricks.md
+  - Misc:
+    - 'Best of Learn English Lab': misc/best_of.md
+    - 'Live Episodes': misc/live_episodes.md
+  - Listening:
+    - 'Overview': listening/index.md
+    - 'Advanced Listening': listening/advanced.md
+  - Soft Skills:
+    - 'Overview': soft_skills/index.md
+    - 'Communication & Body Language': soft_skills/communication.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

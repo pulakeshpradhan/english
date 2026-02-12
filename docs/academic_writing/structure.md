@@ -12,6 +12,20 @@ English is an **SVO** language. The strongest sentences follow this order straig
 * *Weak (Passive):* The experiment was conducted by the research team. (O-V-S)
 * *Strong (SVO):* The research team conducted the experiment. (S-V-O)
 * **Rule:** Keep the Subject and Verb close together. Do not let a long clause separate the actor from the action.
+* **Strategic Use of Voice:** While active voice is preferred, passive voice has its place in academic writing.
+  * **Use Active Voice in:** Introduction, Results (to show researcher action), and Discussion (to show researcher interpretation).
+  * **Use Passive Voice in:** Methods (to focus on the objects and processes, not the people).
+  * *Example (Methods):* "The sample **was heated** to 100°C" (Passive - Focus on sample).
+  * *Example (Discussion):* "We **suggest** that this increase..." (Active - Focus on researcher interpretation).
+
+### Nominalization: The "Zombie Noun" Pitfall
+
+Nominalization is the process of turning a strong verb into a weak, heavy noun. This "Zombification" makes sentences longer and harder to understand.
+
+* *Verb (Strong):* "We **analyzed** the data."
+* *Nominalized (Weak):* "An **analysis** of the data was performed."
+* **Why it's bad:** It hides the action and adds unnecessary words like "was performed" or "is carried out."
+* **The Fix:** Find the noun ending in *-tion, -ment, -ance, or -ing* and turn it back into its original verb form.
 
 ### The Known-New Contract
 
@@ -118,3 +132,24 @@ Ensure pronouns (it, they, this) clearly refer to a specific noun (the anteceden
 
 * *Vague:* "The temperature rose while the pressure dropped, and **this** caused the failure." (What caused the failure? The rise? The drop? Or the combination?)
 * *Clear:* "The temperature rose while the pressure dropped, and **this thermal fluctuation** caused the failure."
+
+## Academic Punctuation Protocols
+
+Punctuation isn't just about grammar; it's about controlling the "logic flow" of your sentence.
+
+### The Semicolon (;) - The Soft Link
+
+* **Protocol:** Use it to connect two independent clauses that are closely related in meaning but can stand alone.
+* *Example:* "The model is robust; it remained stable under high noise conditions."
+
+### The Colon (:) - The Hard Pointer
+
+* **Protocol:** Use it to introduce a list or a concluding explanation that is directly linked to the preceding clause.
+* *Example:* "The study focused on three variables: temperature, pressure, and humidity."
+* *Example:* "The result was clear: the hypothesis was rejected."
+
+### The Em-dash (—) - The Academic Emphasis
+
+* **Protocol:** Use it to set off parenthetical information that you want to emphasize or to mark a sharp break in thought. Use sparingly (no more than once per paragraph).
+* *Example:* "The participants—all of whom were over 65—showed significant improvement."
+* *Warning:* Do not confuse it with a hyphen (-), which is used for joining words (e.g., "high-impact").

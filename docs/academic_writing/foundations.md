@@ -13,6 +13,32 @@ Effective academic writing is characterized by precision and focus. Follow these
 * **Grammar:** Strictly avoid grammatical errors; they reduce reader trust.
 * **Figures:** Limit figures to $\le$ 12 (recommended for most standard journals).
 
+## Ethics and Author Contributions
+
+Maintaining research integrity is paramount. Academic writing is not just about clear communication; it is about accurate representation.
+
+* **Plagiarism:** Always attribute ideas, data, and text to their original sources. Use tools like Similarity Check to verify your work before submission.
+* **Co-Authorship:** Ensure that all individuals who contributed significantly to the research are included as authors. Conversely, avoid "gift" authorship.
+* **Conflicts of Interest:** Disclose any financial or personal relationships that could be perceived as influencing the research.
+* **Data Integrity:** Never manipulate data or "cherry-pick" results to support a hypothesis. Report both positive and negative findings objectively.
+
+## Abstract Writing: The Hook
+
+The abstract is the most important part of your paper after the title. It is the first (and sometimes only) part that reviewers and readers will see.
+
+### Structured vs. Unstructured Abstracts
+
+* **Structured Abstracts:** Common in medical and life sciences. They use explicit headings (Objective, Methods, Results, Conclusion).
+* **Unstructured Abstracts:** A single paragraph common in physical sciences and humanities. They still follow a logical flow (IMRaD or ABT) but without headings.
+
+### Abstract Checklist
+
+1. **Context:** Start with 1-2 sentences of background.
+2. **The Gap:** Identify the problem you are solving (The "But").
+3. **The Approach:** Briefly state your methodology.
+4. **The Punchline:** State your most significant finding clearly.
+5. **The Implications:** End with why it matters (The "So what?").
+
 ## Structuring Your Argument
 
 ### Manuscript Structure: The IMRaD Model

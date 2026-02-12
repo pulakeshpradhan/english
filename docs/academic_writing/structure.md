@@ -275,12 +275,14 @@ All three can set off parenthetical information, but they carry different emphas
 ### The Apostrophe (')
 
 **Possessive Forms:**
+
 * Singular noun: researcher's data
 * Plural noun ending in s: researchers' findings
 * Plural noun not ending in s: children's responses
 * Compound nouns: mother-in-law's opinion
 
 **Common Errors:**
+
 * ❌ It's findings (Wrong: "it's" = "it is")
 * ✅ Its findings (Correct: possessive)
 * ❌ The 1990's (Wrong for decades)
@@ -350,3 +352,228 @@ Don't always start with the subject. Vary your openings:
 
 !!! tip "Readability Test"
     After writing a paragraph, read it aloud. If it sounds monotonous or choppy, revise for sentence variety.
+
+## Modal Verbs and Auxiliary Verbs in Academic Writing
+
+Modal verbs (can, could, would, might, may, should, must) and auxiliary verbs (have, has, had, been) are essential for expressing certainty, possibility, and time relationships in academic writing. Using them correctly strengthens your arguments and demonstrates precision.
+
+### Can vs. Could
+
+Both express ability or possibility, but with different levels of certainty and time frames.
+
+| Verb | Meaning | Usage in Academic Writing | Example |
+| :--- | :--- | :--- | :--- |
+| **Can** | Present ability; definite possibility | Use for established facts or current capabilities | "GIS **can** analyze spatial patterns with high accuracy." |
+| **Could** | Past ability; conditional possibility; polite suggestion | Use for hypothetical scenarios or past potential | "The model **could** predict floods if provided with adequate data." |
+
+**Academic Writing Rules:**
+
+✅ **Can (Present/General):**
+* "Remote sensing **can** detect land-use changes."
+* "This method **can** reduce errors by 40%."
+
+✅ **Could (Hypothetical/Past):**
+* "With more funding, we **could** expand the study area."
+* "Historical records **could** not provide sufficient detail." (past inability)
+
+❌ **Common Mistake:**
+* Wrong: "The results **can** have been different if..."
+* Correct: "The results **could** have been different if..."
+
+### Can Be vs. Could Be
+
+Add "be" to create passive or continuous forms with different certainty levels.
+
+| Construction | Meaning | Example |
+| :--- | :--- | :--- |
+| **Can be** | Definite possibility (present/future) | "Urban sprawl **can be** mitigated through zoning policies." |
+| **Could be** | Uncertain possibility; speculation | "The anomaly **could be** caused by measurement error." |
+
+**Academic Examples:**
+
+| Context | Can Be | Could Be |
+| :--- | :--- | :--- |
+| **Methodology** | "The data **can be** collected using satellites." (established method) | "Alternative approaches **could be** explored in future research." (suggestions) |
+| **Results** | "This pattern **can be** observed in all samples." (definite) | "The variation **could be** attributed to seasonal factors." (possible explanation) |
+| **Discussion** | "These findings **can be** applied to similar regions." (confident extrapolation) | "The discrepancy **could be** due to sampling bias." (tentative reasoning) |
+
+### Would
+
+"Would" expresses hypothetical situations, polite suggestions, or habitual past actions.
+
+| Usage | Example | Academic Context |
+| :--- | :--- | :--- |
+| **Hypothetical** | "A larger sample size **would** improve accuracy." | Discussing limitations or future improvements |
+| **Conditional** | "If precipitation increased, flood risk **would** rise." | Cause-effect relationships |
+| **Polite/Tentative** | "We **would** argue that this finding is significant." | Softening strong claims |
+| **Past Habit** | "Participants **would** complete the survey weekly." | Methods description (less common) |
+
+**Academic Writing Examples:**
+
+✅ **Correct Usage:**
+* "Additional data **would** strengthen the analysis."
+* "It **would** be beneficial to examine temporal trends."
+* "We **would** suggest that urban planning policies require revision."
+
+❌ **Avoid Overuse:**
+* Wrong: "The study **would** examine temperature patterns." (Use "examines" or "examined")
+* Correct: "The study **examines** temperature patterns."
+
+### Might vs. Might Be
+
+"Might" expresses low probability or uncertainty—essential for cautious academic claims.
+
+| Construction | Certainty Level | Example |
+| :--- | :--- | :--- |
+| **Might** | Low possibility | "Climate change **might** affect monsoon patterns." |
+| **Might be** | Low possibility (state/condition) | "The error **might be** systematic rather than random." |
+
+**Certainty Hierarchy (from strongest to weakest):**
+
+1. **Will/Will be** (100% certain) → "The results **will be** published in December."
+2. **Can/Can be** (Strong possibility) → "This method **can** detect subtle changes."
+3. **Could/Could be** (Moderate possibility) → "The trend **could be** explained by urbanization."
+4. **May/May be** (Moderate-low possibility) → "Rainfall **may** increase in coastal areas."
+5. **Might/Might be** (Low possibility) → "The anomaly **might be** a data artifact."
+
+**Academic Examples:**
+
+| Weak Claim (Might) | Moderate Claim (Could) | Strong Claim (Can) |
+| :--- | :--- | :--- |
+| The model **might** predict future trends. | The model **could** predict future trends with more data. | The model **can** predict short-term trends accurately. |
+| This factor **might be** relevant. | This factor **could be** significant. | This factor **can be** measured directly. |
+
+### Have, Has, Had (Perfect Tenses)
+
+Perfect tenses link past actions to present implications—crucial for literature reviews and results.
+
+#### Present Perfect (Have/Has + Past Participle)
+
+**Use when:** An action started in the past and continues to the present, or has present relevance.
+
+| Subject | Structure | Example | When to Use |
+| :--- | :--- | :--- | :--- |
+| **We/They** | have + past participle | "Multiple studies **have examined** this phenomenon." | Literature review |
+| **It/He/She** | has + past participle | "This approach **has shown** promising results." | Discussing previous findings |
+
+**Academic Writing Applications:**
+
+✅ **Literature Review:**
+* "Researchers **have investigated** urban heat islands since the 1960s."
+* "Smith et al. (2020) **have demonstrated** a strong correlation."
+
+✅ **Introduction (establishing context):**
+* "Previous studies **have focused** primarily on rural areas."
+* "Remote sensing **has become** an essential tool in geography."
+
+❌ **Wrong Usage:**
+* Wrong: "In 2020, we **have collected** data." (Use "collected"—specific past time)
+* Correct: "We **have collected** data over the past decade." (period extending to present)
+
+#### Past Perfect (Had + Past Participle)
+
+**Use when:** One past action occurred before another past action.
+
+| Example | Explanation |
+| :--- | :--- |
+| "We analyzed data that **had been collected** in 2019." | Collection (first) happened before analysis (second) |
+| "Participants **had completed** training before the experiment began." | Training (first) before experiment (second) |
+
+**Timeline Visualization:**
+
+```
+PAST ←―――――――――――――――――――――――――→ NOW
+     ↑                    ↑
+  Had collected      Analyzed
+  (Past Perfect)     (Simple Past)
+```
+
+**Academic Examples:**
+
+✅ **Methods:**
+* "We examined areas that **had experienced** flooding in the previous year."
+* "Samples **had been stored** at -20°C before analysis."
+
+✅ **Results:**
+* "Of the 100 respondents, 45 **had previously participated** in similar studies."
+* "By 2015, deforestation **had reduced** forest cover by 30%."
+
+### Have Been, Has Been, Had Been (Perfect Continuous)
+
+These forms emphasize the duration or ongoing nature of an action.
+
+#### Present Perfect Continuous (Have/Has Been + -ing)
+
+**Use when:** An action started in the past and is still continuing or has just stopped, with emphasis on duration.
+
+| Structure | Example | Academic Context |
+| :--- | :--- | :--- |
+| **Have been + -ing** | "Researchers **have been monitoring** air quality since 2010." | Ongoing research (started past, continues now) |
+| **Has been + -ing** | "The glacier **has been retreating** for the past two decades." | Continuous process still occurring |
+
+**Academic Examples:**
+
+✅ **Introduction/Background:**
+* "Scientists **have been debating** this theory for over 50 years."
+* "The population **has been growing** at an unprecedented rate."
+
+✅ **Methods:**
+* "We **have been collecting** weekly samples for the past year."
+
+❌ **Don't confuse with Present Perfect Simple:**
+* **Present Perfect:** "We **have collected** 500 samples." (completed action, emphasis on result)
+* **Present Perfect Continuous:** "We **have been collecting** samples since January." (ongoing action, emphasis on duration)
+
+#### Past Perfect Continuous (Had Been + -ing)
+
+**Use when:** A continuous action in the past was interrupted or completed before another past action.
+
+| Example | Meaning |
+| :--- | :--- |
+| "The team **had been working** on the project for three years when funding was cut." | Working (continuous past) stopped when funding was cut (later past event) |
+| "Temperatures **had been rising** steadily before the sudden drop in 2020." | Rising (continuous) up until the drop (specific past moment) |
+
+**Academic Examples:**
+
+✅ **Results/Discussion:**
+* "Urban sprawl **had been accelerating** until the 2008 policy intervention."
+* "The region **had been experiencing** drought conditions for five years when the floods occurred."
+
+### Quick Reference: Modal and Perfect Tense Decision Tree
+
+**Step 1: What are you expressing?**
+
+* **Ability/Possibility now** → Use **can/can be**
+* **Hypothetical/Past ability** → Use **could/could be**
+* **Low possibility/uncertainty** → Use **might/might be**
+* **Polite suggestion/hypothetical** → Use **would**
+
+**Step 2: What is the time relationship?**
+
+* **Past action with present relevance** → **have/has + past participle**
+* **One past action before another** → **had + past participle**
+* **Ongoing action from past to now** → **have/has been + -ing**
+* **Past ongoing action interrupted by another past event** → **had been + -ing**
+
+### Common Mistakes and Fixes
+
+| Common Mistake | Correction | Explanation |
+| :--- | :--- | :--- |
+| The data **can** be collected in 2020. | The data **were** collected in 2020. | Use simple past for completed past actions with specific dates |
+| Studies **are** examining this since 1990. | Studies **have been examining** this since 1990. | Use present perfect continuous for actions from past to present |
+| We **have analyzed** data yesterday. | We **analyzed** data yesterday. | Don't use present perfect with specific past time markers |
+| Results **would show** a clear pattern. | Results **show** a clear pattern. (or "would show" if hypothetical) | Don't use "would" for actual findings |
+| The model **might can** predict trends. | The model **might** predict trends. | Never stack modals (can't use "might can") |
+
+### Academic Writing Checklist: Modals and Auxiliaries
+
+Before submitting, verify:
+
+* [ ] **Can** is used for definite present abilities, **could** for hypothetical or past
+* [ ] **Would** is only used for hypothetical scenarios, not actual study results
+* [ ] **Might** is used appropriately for low-certainty claims
+* [ ] **Have/Has** + past participle is used for actions with present relevance
+* [ ] **Had** + past participle is used for one past action before another
+* [ ] Perfect continuous forms emphasize duration when needed
+* [ ] No double modals (e.g., "might could," "will can")
+* [ ] Specific past dates use simple past, not present perfect

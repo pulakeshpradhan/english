@@ -1,30 +1,52 @@
-# Learn English with LearnEnglishLab
+# English for Academic Writing
 
-Welcome to the **LearnEnglishLab** unofficial study guide!  This site is a structured collection of notes and key takeaways based on the incredibly popular and effective [LearnEnglishLab YouTube Channel](https://www.youtube.com/@LearnEnglishLab/videos).
+Welcome to **English for Academic Writing** - a comprehensive resource for mastering English grammar, vocabulary, and writing skills essential for academic success.
 
 ## About this Guide
 
-This guide is designed to help you organize your English learning journey into clear, manageable sections. Whether you are struggling with complex grammar rules, pronunciation nuances, or just want to speak more fluently, you will find resources here.
+This guide is designed to help researchers, students, and professionals improve their academic English writing. The content is organized into systematic modules that treat English as a structured system, using code-like logic and clear patterns to make learning efficient and effective.
 
-!!! note "Disclaimer"
-    This is an unofficial fan-made site. All credit for the original content goes to the creator of the LearnEnglishLab channel. Please subscribe and support the channel!
+!!! tip "Learning Approach"
+    This guide uses a **systematic, developer-friendly approach** to English, breaking down complex grammar into logical patterns and executable "codes" that you can apply immediately to your academic writing.
 
-## Sections Overview
+## Core Focus Areas
 
 This guide is divided into the following main categories:
 
 | Section | Description |
 | :--- | :--- |
-| **[Grammar](grammar/index.md)** | Master the rules of English, from tenses to parts of speech. Includes common mistakes to avoid. |
-| **[Vocabulary](vocabulary/index.md)** | Expand your word bank with advanced vocabulary, fix pronunciation errors, and clarify confusing words. |
-| **[Speaking](speaking/index.md)** | Learn techniques to improve fluency, including the famous JAM technique. |
-| **[Listening](listening/index.md)** | Practice with advanced listening materials designed for C1 and C2 levels. |
-| **[Soft Skills](soft_skills/index.md)** | improve your overall communication skills, body language, and professional presence. |
+| **[Core Modules](core_modules/index.md)** | The foundational "codes" for English - systematic breakdowns of grammar, tenses, vocabulary, and style. |
+| **[Academic Writing](academic_writing/index.md)** | Specialized guidance for academic papers, including structure, formal vocabulary, and flow. |
+| **[Grammar](grammar/index.md)** | Comprehensive grammar rules, from tenses to conditionals, with academic examples. |
+| **[Vocabulary](vocabulary/index.md)** | Academic vocabulary, word distinctions, and formal expressions. |
+| **[Tenses](tenses/index.md)** | Complete breakdown of all 12 English tenses with usage patterns. |
 
 ---
 
 ## Getting Started
 
-If you are new to the channel or this guide, we recommend starting with the **[Grammar Section](grammar/index.md)** to build a strong foundation, or jump straight to **[Speaking](speaking/index.md)** if you want to improve your fluency immediately.
+### For Academic Writers
+
+If you're writing research papers, theses, or academic articles, start with:
+
+1. **[Core Modules](core_modules/index.md)** - Master the fundamental patterns
+2. **[Academic Writing](academic_writing/index.md)** - Apply them to formal writing
+3. **[Grammar Codes](core_modules/13_grammar.md)** - Advanced sentence structure and transitions
+
+### For English Learners
+
+If you're building foundational English skills:
+
+1. **[Grammar Overview](grammar/index.md)** - Start with the basics
+2. **[Tenses](tenses/index.md)** - Master time expressions
+3. **[Core Modules](core_modules/index.md)** - Systematic deep dive
+
+---
+
+## Key Resources
+
+- **[The LAB Codes](core_modules/02_lab_codes.md)** - Quick reference cheat sheet
+- **[Grammar Codes](core_modules/13_grammar.md)** - Advanced writing techniques (SWAP, BRIDGE, ACTIVE)
+- **[Vocabulary Distinctions](core_modules/11_distinctions.md)** - Common confusions resolved
 
 Happy Learning!

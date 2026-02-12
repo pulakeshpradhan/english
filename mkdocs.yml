@@ -1,5 +1,5 @@
-site_name: Learn English Lab
-site_description: 'An unofficial guide to learning English, based on LearnEnglishLab YouTube videos.'
+site_name: English for Academic Writing
+site_description: 'A systematic guide to mastering English grammar, vocabulary, and writing skills for academic success.'
 site_author: 'Pulakesh Pradhan'
 site_url: https://pulakeshpradhan.github.io/english/
 theme:
@@ -20,6 +20,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -29,6 +30,11 @@ theme:
 
 nav:
   - Home: index.md
+  - Academic Writing:
+    - 'Overview': academic_writing/index.md
+    - 'Foundations': academic_writing/foundations.md
+    - 'Grammar & Structure': academic_writing/structure.md
+    - 'Vocabulary & Flow': academic_writing/vocabulary.md
   - Core Modules:
     - 'Overview': core_modules/index.md
     - '1. Fluency': core_modules/01_fluency.md
@@ -75,7 +81,7 @@ nav:
     - 'American Accent Training': speaking/american_accent.md
     - 'The AUDIO Codes (Pronunciation)': speaking/pronunciation_lessons.md
     - 'Simple Tricks': speaking/simple_tricks.md
-  - Misc:
+  - Resources:
     - 'Best of Learn English Lab': misc/best_of.md
     - 'The LAB Codes': misc/lab_codes.md
     - 'Live Episodes': misc/live_episodes.md
@@ -86,11 +92,6 @@ nav:
   - Soft Skills:
     - 'Overview': soft_skills/index.md
     - 'Communication & Body Language': soft_skills/communication.md
-  - Academic Writing:
-    - 'Overview': academic_writing/index.md
-    - 'Foundations': academic_writing/foundations.md
-    - 'Grammar & Structure': academic_writing/structure.md
-    - 'Vocabulary & Flow': academic_writing/vocabulary.md
 
 copyright: Copyright &copy; 2026 Pulakesh Pradhan
 

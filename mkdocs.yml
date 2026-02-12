@@ -1,6 +1,7 @@
 site_name: Learn English Lab
 site_description: 'An unofficial guide to learning English, based on LearnEnglishLab YouTube videos.'
 site_author: 'Pulakesh Pradhan'
+site_url: https://pulakeshpradhan.github.io/english/
 theme:
   name: material
   palette:

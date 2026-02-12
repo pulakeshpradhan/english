@@ -8,15 +8,15 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 
 ### 1. Remembering (Knowledge)
 
-**Definition:** Recall or retrieve previously learned information.
+**Definition:** Recall or retrieve previously learned information. This is the foundation of learning.
 
 | Verbs | | | |
 | :--- | :--- | :--- | :--- |
-| Define | List | Recall | Name |
-| Recognize | State | Repeat | Record |
-| Label | Arrange | Duplicate | Match |
-| Memorize | Order | Relate | Reproduce |
-| Outline | Name | Arrange | Define |
+| **Define** | **List** | **Recall** | **Name** |
+| **Recognize** | **State** | **Repeat** | **Record** |
+| **Label** | **Identify** | **Duplicate** | **Match** |
+| **Memorize** | **Order** | **Relate** | **Reproduce** |
+| **Outline** | **Quote** | **Tabulate** | **Tell** |
 
 **Usage Example:** "By the end of this chapter, the reader will be able to **define** the core principles of thermodynamics."
 
@@ -26,25 +26,25 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 
 | Verbs | | | |
 | :--- | :--- | :--- | :--- |
-| Explain | Summarize | Describe | Distinguish |
-| Indicate | Discuss | Recognize | Classify |
-| Restate | Express | Locate | Report |
-| Tell | Convert | Estimate | Select |
-| Infer | Predict | Translate | Review |
+| **Explain** | **Summarize** | **Describe** | **Distinguish** |
+| **Indicate** | **Discuss** | **Interpret** | **Classify** |
+| **Restate** | **Express** | **Locate** | **Report** |
+| **Translate** | **Convert** | **Estimate** | **Paraphrase** |
+| **Infer** | **Predict** | **Review** | **Exemplify** |
 
 **Usage Example:** "The student should be able to **summarize** the main arguments presented in the research paper."
 
 ### 3. Applying (Application)
 
-**Definition:** Use a concept in a new situation or unprompted use of an abstraction. Applies what was learned in the classroom into novel situations in the work place.
+**Definition:** Use a concept in a new situation or unprompted use of an abstraction. Applies what was learned into novel situations in the workplace or research.
 
 | Verbs | | | |
 | :--- | :--- | :--- | :--- |
-| Apply | Choose | Show | Demonstrate |
-| Solve | Produce | Practice | Illustrate |
-| Perform | Compute | Operate | Use |
-| Schedule | Sketch | Prepare | Modify |
-| Predict | Extrapolate | Manage | Change |
+| **Apply** | **Choose** | **Show** | **Demonstrate** |
+| **Solve** | **Produce** | **Practice** | **Illustrate** |
+| **Perform** | **Compute** | **Operate** | **Use** |
+| **Schedule** | **Sketch** | **Prepare** | **Modify** |
+| **Implement** | **Execute** | **Employ** | **Generalize** |
 
 **Usage Example:** "Apply the statistical model to **solve** the problem of variable correlation in high-density datasets."
 
@@ -54,25 +54,25 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 
 | Verbs | | | |
 | :--- | :--- | :--- | :--- |
-| Analyze | Calculate | Compare | Contrast |
-| Categorize | Examine | Model | Relate |
-| Investigate | Distinguish | Differentiate | Appraise |
-| Test | Diagram | Inspect | Question |
-| Classify | Deduce | Separate | Divide |
+| **Analyze** | **Calculate** | **Compare** | **Contrast** |
+| **Categorize** | **Examine** | **Model** | **Relate** |
+| **Investigate** | **Distinguish** | **Differentiate** | **Appraise** |
+| **Test** | **Diagram** | **Inspect** | **Question** |
+| **Deconstruct** | **Discriminate** | **Integrate** | **Structure** |
 
 **Usage Example:** "The researcher will **analyze** the dataset to identify significant outliers and trends."
 
 ### 5. Evaluating (Evaluation)
 
-**Definition:** Make judgments about the value of ideas or materials.
+**Definition:** Make judgments about the value of ideas or materials based on criteria and standards.
 
 | Verbs | | | |
 | :--- | :--- | :--- | :--- |
-| Argue | Critique | Defend | Evaluate |
-| Justify | Support | Interpretation | Assess |
-| Appraise | Rate | Revise | Score |
-| Select | Choose | Estimate | Measure |
-| Judge | Predict | Convince | Conclude |
+| **Argue** | **Critique** | **Defend** | **Evaluate** |
+| **Justify** | **Support** | **Interpret** | **Assess** |
+| **Appraise** | **Rate** | **Revise** | **Score** |
+| **Validate** | **Verify** | **Debate** | **Recommend** |
+| **Judge** | **Predict** | **Convince** | **Conclude** |
 
 **Usage Example:** "Critically **evaluate** the effectiveness of the proposed policy in mitigating environmental impacts."
 
@@ -82,11 +82,11 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 
 | Verbs | | | |
 | :--- | :--- | :--- | :--- |
-| Synthesize | Combine | Compose | Assemble |
-| Construct | Design | Generate | Create |
-| Develop | Diagnose | Propose | Manage |
-| Hypothesize | Plan | Formulate | Invent |
-| Set up | Write | Arrange | Collect |
+| **Synthesize** | **Combine** | **Compose** | **Assemble** |
+| **Construct** | **Design** | **Generate** | **Create** |
+| **Develop** | **Diagnose** | **Propose** | **Manage** |
+| **Hypothesize** | **Plan** | **Formulate** | **Invent** |
+| **Devise** | **Originate** | **Reconstruct** | **Systematize** |
 
 **Usage Example:** "Based on the findings, the author will **propose** a new framework for sustainable urban development."
 
@@ -97,3 +97,4 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 - **Precision:** They remove ambiguity from your research questions and objectives.
 - **Measurability:** It is easier to measure if someone can "calculate" something than if they "know" something.
 - **Hierarchy:** They help you ensure your work reaches the higher-level cognitive skills (Analyzing, Evaluating, Creating) required for advanced academic writing.
+- **Academic Rigor:** Using these verbs demonstrates a sophisticated understanding of the cognitive processes involved in your research.

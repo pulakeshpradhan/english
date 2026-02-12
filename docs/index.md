@@ -1,52 +1,49 @@
 # English for Academic Writing
 
-Welcome to **English for Academic Writing** - a comprehensive resource for mastering English grammar, vocabulary, and writing skills essential for academic success.
+Welcome to **English for Academic Writing** - a focused resource for mastering the essential skills needed for academic success.
 
 ## About this Guide
 
-This guide is designed to help researchers, students, and professionals improve their academic English writing. The content is organized into systematic modules that treat English as a structured system, using code-like logic and clear patterns to make learning efficient and effective.
+This guide is designed specifically for researchers, students, and professionals who need to write clear, credible, and professional academic English. The content is organized into three essential modules that cover everything you need to produce high-quality academic writing.
 
-!!! tip "Learning Approach"
-    This guide uses a **systematic, developer-friendly approach** to English, breaking down complex grammar into logical patterns and executable "codes" that you can apply immediately to your academic writing.
+!!! tip "Systematic Approach"
+    This guide uses a **systematic, code-like approach** to English, breaking down complex grammar into logical patterns and executable rules that you can apply immediately to your academic writing.
 
-## Core Focus Areas
+## The Three Pillars of Academic Writing
 
-This guide is divided into the following main categories:
+This guide focuses on three core areas:
 
 | Section | Description |
 | :--- | :--- |
-| **[Core Modules](core_modules/index.md)** | The foundational "codes" for English - systematic breakdowns of grammar, tenses, vocabulary, and style. |
-| **[Academic Writing](academic_writing/index.md)** | Specialized guidance for academic papers, including structure, formal vocabulary, and flow. |
-| **[Grammar](grammar/index.md)** | Comprehensive grammar rules, from tenses to conditionals, with academic examples. |
-| **[Vocabulary](vocabulary/index.md)** | Academic vocabulary, word distinctions, and formal expressions. |
-| **[Tenses](tenses/index.md)** | Complete breakdown of all 12 English tenses with usage patterns. |
+| **[Foundations](academic_writing/foundations.md)** | The core principles of clarity, brevity, and structure. Learn IMRaD, CARS, and TEAL frameworks. |
+| **[Grammar & Structure](academic_writing/structure.md)** | Identifying and fixing common errors like run-on sentences and comma splices that undermine credibility. |
+| **[Vocabulary & Flow](academic_writing/vocabulary.md)** | Elevating the tone from conversational to professional using precise academic vocabulary and transitional markers. |
 
 ---
 
 ## Getting Started
 
-### For Academic Writers
+### Recommended Learning Path
 
-If you're writing research papers, theses, or academic articles, start with:
+1. **Start with [Foundations](academic_writing/foundations.md)** - Master the core principles and structural frameworks (IMRaD, CARS, ABT)
+2. **Move to [Grammar & Structure](academic_writing/structure.md)** - Learn to write error-free sentences using SVO and the Paramedic Method
+3. **Finish with [Vocabulary & Flow](academic_writing/vocabulary.md)** - Polish your writing with formal vocabulary and smooth transitions
 
-1. **[Core Modules](core_modules/index.md)** - Master the fundamental patterns
-2. **[Academic Writing](academic_writing/index.md)** - Apply them to formal writing
-3. **[Grammar Codes](core_modules/13_grammar.md)** - Advanced sentence structure and transitions
+### Quick Reference
 
-### For English Learners
-
-If you're building foundational English skills:
-
-1. **[Grammar Overview](grammar/index.md)** - Start with the basics
-2. **[Tenses](tenses/index.md)** - Master time expressions
-3. **[Core Modules](core_modules/index.md)** - Systematic deep dive
+- **Writing your first paper?** → Start with [Foundations](academic_writing/foundations.md)
+- **Getting reviewer feedback on grammar?** → Go to [Grammar & Structure](academic_writing/structure.md)
+- **Need to sound more professional?** → Check [Vocabulary & Flow](academic_writing/vocabulary.md)
 
 ---
 
-## Key Resources
+## What You'll Learn
 
-- **[The LAB Codes](core_modules/02_lab_codes.md)** - Quick reference cheat sheet
-- **[Grammar Codes](core_modules/13_grammar.md)** - Advanced writing techniques (SWAP, BRIDGE, ACTIVE)
-- **[Vocabulary Distinctions](core_modules/11_distinctions.md)** - Common confusions resolved
+- ✅ **IMRaD Structure** - The standard framework for scientific papers
+- ✅ **CARS Model** - How to write compelling introductions
+- ✅ **Run-on Sentences** - Identify and fix the most common grammar errors
+- ✅ **Formal Vocabulary** - Replace informal words with academic alternatives
+- ✅ **Transitional Words** - Create logical flow between ideas
+- ✅ **Active Voice** - Write stronger, clearer sentences
 
 Happy Learning!

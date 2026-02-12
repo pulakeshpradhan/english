@@ -30,68 +30,9 @@ theme:
 
 nav:
   - Home: index.md
-  - Academic Writing:
-    - 'Overview': academic_writing/index.md
-    - 'Foundations': academic_writing/foundations.md
-    - 'Grammar & Structure': academic_writing/structure.md
-    - 'Vocabulary & Flow': academic_writing/vocabulary.md
-  - Core Modules:
-    - 'Overview': core_modules/index.md
-    - '1. Fluency': core_modules/01_fluency.md
-    - '2. Lab Codes': core_modules/02_lab_codes.md
-    - '3. Tenses': core_modules/03_tenses.md
-    - '4. Conditionals': core_modules/04_conditionals.md
-    - '5. Modals': core_modules/05_modals.md
-    - '6. Parts of Speech': core_modules/06_parts_of_speech.md
-    - '7. Articles': core_modules/07_articles.md
-    - '8. Action Verbs': core_modules/08_action_verbs.md
-    - '9. Idioms': core_modules/09_idioms.md
-    - '10. Pronunciation': core_modules/10_pronunciation.md
-    - '11. Distinctions': core_modules/11_distinctions.md
-    - '12. Spoken English': core_modules/12_spoken_english.md
-    - '13. Grammar Codes': core_modules/13_grammar.md
-  - Grammar:
-    - 'Overview': grammar/index.md
-    - 'Verbs': grammar/verbs.md
-    - 'Modal Verbs': grammar/modal_verbs.md
-    - 'Parts of Speech': grammar/parts_of_speech.md
-    - 'Conditionals': grammar/conditionals.md
-    - 'Articles': grammar/articles.md
-    - 'The GRAMMAR Codes': grammar/grammar_codes.md
-    - 'General Lessons': grammar/general_lessons.md
-    - 'Common Mistakes': grammar/common_mistakes.md
-  - Tenses:
-    - 'Overview': tenses/index.md
-    - 'Present Tenses': tenses/present.md
-    - 'Past Tenses': tenses/past.md
-    - 'Future Tenses': tenses/future.md
-  - Vocabulary:
-    - 'Overview': vocabulary/index.md
-    - 'Common Idioms': vocabulary/idioms.md
-    - 'Action Verbs': vocabulary/action_verbs.md
-    - "What's The Difference?": vocabulary/whats_the_difference.md
-    - 'General Lessons': vocabulary/lessons.md
-    - 'Confusing Words': vocabulary/confusing_words.md
-    - 'Advanced Vocabulary': vocabulary/advanced.md
-  - Speaking & Pronunciation:
-    - 'Overview': speaking/index.md
-    - 'How to Become Fluent': speaking/fluency_guide.md
-    - 'Advanced Spoken English': speaking/advanced_spoken.md
-    - 'Common Sentences': speaking/common_sentences.md
-    - 'American Accent Training': speaking/american_accent.md
-    - 'The AUDIO Codes (Pronunciation)': speaking/pronunciation_lessons.md
-    - 'Simple Tricks': speaking/simple_tricks.md
-  - Resources:
-    - 'Best of Learn English Lab': misc/best_of.md
-    - 'The LAB Codes': misc/lab_codes.md
-    - 'Live Episodes': misc/live_episodes.md
-    - 'Free English Lessons': misc/free_english_lessons.md
-  - Listening:
-    - 'Overview': listening/index.md
-    - 'Advanced Listening': listening/advanced.md
-  - Soft Skills:
-    - 'Overview': soft_skills/index.md
-    - 'Communication & Body Language': soft_skills/communication.md
+  - Foundations: academic_writing/foundations.md
+  - Grammar & Structure: academic_writing/structure.md
+  - Vocabulary & Flow: academic_writing/vocabulary.md
 
 copyright: Copyright &copy; 2026 Pulakesh Pradhan
 

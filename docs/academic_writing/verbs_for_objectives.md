@@ -18,7 +18,8 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 | **Memorize** | **Order** | **Relate** | **Reproduce** |
 | **Outline** | **Quote** | **Tabulate** | **Tell** |
 
-**Usage Example:** "By the end of this chapter, the reader will be able to **define** the core principles of thermodynamics."
+!!! example "Geographical Research Example"
+    "**Identify** the major river systems in the Indian subcontinent and **list** their primary tributaries."
 
 ### 2. Understanding (Comprehension)
 
@@ -32,7 +33,8 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 | **Translate** | **Convert** | **Estimate** | **Paraphrase** |
 | **Infer** | **Predict** | **Review** | **Exemplify** |
 
-**Usage Example:** "The student should be able to **summarize** the main arguments presented in the research paper."
+!!! example "Geographical Research Example"
+    "**Explain** the impact of the Himalayan rain shadow effect on the arid climate of the Tibetan Plateau."
 
 ### 3. Applying (Application)
 
@@ -46,7 +48,8 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 | **Schedule** | **Sketch** | **Prepare** | **Modify** |
 | **Implement** | **Execute** | **Employ** | **Generalize** |
 
-**Usage Example:** "Apply the statistical model to **solve** the problem of variable correlation in high-density datasets."
+!!! example "Geographical Research Example"
+    "**Use** GIS (Geographic Information Systems) software to **map** land-use changes in Mumbai over the last two decades."
 
 ### 4. Analyzing (Analysis)
 
@@ -60,7 +63,8 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 | **Test** | **Diagram** | **Inspect** | **Question** |
 | **Deconstruct** | **Discriminate** | **Integrate** | **Structure** |
 
-**Usage Example:** "The researcher will **analyze** the dataset to identify significant outliers and trends."
+!!! example "Geographical Research Example"
+    "**Analyze** the correlation between urban heat island (UHI) intensity and the density of built-up areas in Delhi."
 
 ### 5. Evaluating (Evaluation)
 
@@ -74,7 +78,8 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 | **Validate** | **Verify** | **Debate** | **Recommend** |
 | **Judge** | **Predict** | **Convince** | **Conclude** |
 
-**Usage Example:** "Critically **evaluate** the effectiveness of the proposed policy in mitigating environmental impacts."
+!!! example "Geographical Research Example"
+    "**Critique** the effectiveness of current coastal management policies in West Bengal against rising sea levels."
 
 ### 6. Creating (Synthesis)
 
@@ -88,13 +93,36 @@ Bloom's Taxonomy categorizes thinking into six levels, ranging from basic recall
 | **Hypothesize** | **Plan** | **Formulate** | **Invent** |
 | **Devise** | **Originate** | **Reconstruct** | **Systematize** |
 
-**Usage Example:** "Based on the findings, the author will **propose** a new framework for sustainable urban development."
+!!! example "Geographical Research Example"
+    "**Propose** a sustainable urban drainage system (SuDS) model to **mitigate** flash flooding in Bangalore."
+
+---
+
+## Dos and Don'ts for Writing Objectives
+
+To ensure your research objectives are robust and academically sound, follow these best practices.
+
+### ✅ The Dos
+
+* **Use Active Verbs:** Start your objective with a strong verb from the tables above (e.g., "Analyze," "Evaluate").
+* **Be Specific:** Clearly state what you intend to measure or achieve (e.g., "Identify land-use changes" vs. "Look at land").
+* **Make it Measurable:** Use verbs that result in a tangible output (e.g., a map, a table, a list, a critical review).
+* **Be Concise:** Keep objectives short and focused on a single outcome.
+* **Use the SMART Framework:** Ensure objectives are Specific, Measurable, Achievable, Relevant, and Time-bound.
+
+### ❌ The Don'ts
+
+* **Avoid Vague Verbs:** Do not use verbs like **"Understand," "Know," "Learn,"** or **"Appreciate."** These are internal mental states and cannot be measured easily.
+* **Don't Overcrowd:** Avoid packing multiple unrelated goals into a single objective. Use the **1-S-1-I Protocol** (One Subject, One Idea).
+* **Don't Be Too Broad:** Avoid "world-saving" objectives. Keep them localized and manageable for your specific study.
+* **Avoid Jargon:** Don't use overly complex language that obscures the actual goal.
+* **Don't confuses Tasks with Objectives:** An objective is the *result* (e.g., "Identify causes"), a task is the *process* (e.g., "Conduct a survey"). Focus on the result.
 
 ---
 
 ## Why Use Bloom's Verbs?
 
-- **Precision:** They remove ambiguity from your research questions and objectives.
-- **Measurability:** It is easier to measure if someone can "calculate" something than if they "know" something.
-- **Hierarchy:** They help you ensure your work reaches the higher-level cognitive skills (Analyzing, Evaluating, Creating) required for advanced academic writing.
-- **Academic Rigor:** Using these verbs demonstrates a sophisticated understanding of the cognitive processes involved in your research.
+* **Precision:** They remove ambiguity from your research questions and objectives.
+* **Measurability:** It is easier to measure if someone can "calculate" something than if they "know" something.
+* **Hierarchy:** They help you ensure your work reaches the higher-level cognitive skills (Analyzing, Evaluating, Creating) required for advanced academic writing.
+* **Academic Rigor:** Using these verbs demonstrates a sophisticated understanding of the cognitive processes involved in your research.

@@ -1,0 +1,129 @@
+/* Premium Academic Styling */
+
+:root {
+    --md-primary-fg-color: #1a237e; /* Deep Indigo */
+    --md-primary-fg-color--light: #534bae;
+    --md-primary-fg-color--dark: #000051;
+    --md-accent-fg-color: #d32f2f; /* Academic Red */
+}
+
+/* Typography Enhancements */
+body {
+    font-size: 0.85rem;
+}
+
+.md-typeset h1 {
+    font-weight: 700;
+    color: var(--md-primary-fg-color);
+    border-bottom: 2px solid var(--md-primary-fg-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.md-typeset h2 {
+    font-weight: 600;
+    color: var(--md-primary-fg-color--dark);
+    margin-top: 2.5rem;
+}
+
+/* Table Enhancements */
+.md-typeset table:not([class]) {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    margin: 1.5rem 0;
+}
+
+.md-typeset table:not([class]) th {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    padding: 0.75rem 1rem;
+}
+
+.md-typeset table:not([class]) td {
+    padding: 0.75rem 1rem;
+    border-top: 1px solid #f0f0f0;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.md-typeset table:not([class]) tr:hover {
+    background-color: #f1f8ff;
+    transition: background-color 0.2s ease;
+}
+
+/* Admonition (Tip boxes) Enhancements */
+.md-typeset .admonition, 
+.md-typeset details {
+    border-radius: 8px;
+    border-left-width: 0.3rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+}
+
+.md-typeset .admonition:hover {
+    transform: translateY(-2px);
+}
+
+/* Icons and Badges */
+.md-typeset .check-mark {
+    color: #2e7d32;
+    font-weight: bold;
+}
+
+/* Navigation tabs animation */
+.md-tabs__link {
+    transition: color 0.3s, opacity 0.3s;
+}
+
+.md-tabs__item--active .md-tabs__link {
+    color: white;
+    font-weight: 600;
+}
+
+/* Button style updates */
+.md-button--primary {
+    background-color: var(--md-primary-fg-color);
+    border-color: var(--md-primary-fg-color);
+    border-radius: 4px;
+    padding: 0.5rem 1.5rem;
+    font-weight: 600;
+}
+
+.md-button--primary:hover {
+    background-color: var(--md-primary-fg-color--dark);
+    border-color: var(--md-primary-fg-color--dark);
+}
+
+/* Cards on Index Page */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.grid-card {
+    border: 1px solid #e0e0e0;
+    padding: 1.5rem;
+    border-radius: 12px;
+    background: white;
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.grid-card:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    transform: translateY(-5px);
+    border-color: var(--md-primary-fg-color);
+}

@@ -7,13 +7,13 @@ theme:
   palette:
     - scheme: default
       primary: indigo
-      accent: purple
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
-      accent: purple
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -21,12 +21,25 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.footer
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.expand
     - toc.integrate
+    - toc.follow
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
+    - content.tooltips
+  font:
+    text: Roboto
+    code: Roboto Mono
   icon:
     logo: material/school
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md

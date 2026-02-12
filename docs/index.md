@@ -11,13 +11,20 @@ This guide is designed specifically for researchers, students, and professionals
 
 ## The Three Pillars of Academic Writing
 
-This guide focuses on three core areas:
-
-| Section | Description |
-| :--- | :--- |
-| **[Foundations](academic_writing/foundations.md)** | The core principles of clarity, brevity, and structure. Learn IMRaD, CARS, and TEAL frameworks. |
-| **[Grammar & Structure](academic_writing/structure.md)** | Identifying and fixing common errors like run-on sentences and comma splices that undermine credibility. |
-| **[Vocabulary & Flow](academic_writing/vocabulary.md)** | Elevating the tone from conversational to professional using precise academic vocabulary and transitional markers. |
+<div class="grid-container">
+  <div class="grid-card">
+    <h3>🎓 <a href="academic_writing/foundations.md">Foundations</a></h3>
+    <p>The core principles of clarity, brevity, and structure. Learn IMRaD, CARS, and TEAL frameworks.</p>
+  </div>
+  <div class="grid-card">
+    <h3>⚖️ <a href="academic_writing/structure.md">Grammar & Structure</a></h3>
+    <p>Identifying and fixing common errors like run-on sentences and comma splices that undermine credibility.</p>
+  </div>
+  <div class="grid-card">
+    <h3>🖋️ <a href="academic_writing/vocabulary.md">Vocabulary & Flow</a></h3>
+    <p>Elevating the tone from conversational to professional using precise academic vocabulary and transitional markers.</p>
+  </div>
+</div>
 
 ---
 

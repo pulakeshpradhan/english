@@ -31,7 +31,6 @@ nav:
   - Home: index.md
   - Grammar:
     - 'Overview': grammar/index.md
-    - 'All Tenses Course': grammar/tenses.md
     - 'Verbs': grammar/verbs.md
     - 'Modal Verbs': grammar/modal_verbs.md
     - 'Parts of Speech': grammar/parts_of_speech.md
@@ -39,6 +38,11 @@ nav:
     - 'Articles': grammar/articles.md
     - 'General Lessons': grammar/general_lessons.md
     - 'Common Mistakes': grammar/common_mistakes.md
+  - Tenses:
+    - 'Overview': tenses/index.md
+    - 'Present Tenses': tenses/present.md
+    - 'Past Tenses': tenses/past.md
+    - 'Future Tenses': tenses/future.md
   - Vocabulary:
     - 'Overview': vocabulary/index.md
     - 'Common Idioms': vocabulary/idioms.md

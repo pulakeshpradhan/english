@@ -29,6 +29,21 @@ theme:
 
 nav:
   - Home: index.md
+  - Core Modules:
+    - 'Overview': core_modules/index.md
+    - '1. Fluency': core_modules/01_fluency.md
+    - '2. Lab Codes': core_modules/02_lab_codes.md
+    - '3. Tenses': core_modules/03_tenses.md
+    - '4. Conditionals': core_modules/04_conditionals.md
+    - '5. Modals': core_modules/05_modals.md
+    - '6. Parts of Speech': core_modules/06_parts_of_speech.md
+    - '7. Articles': core_modules/07_articles.md
+    - '8. Action Verbs': core_modules/08_action_verbs.md
+    - '9. Idioms': core_modules/09_idioms.md
+    - '10. Pronunciation': core_modules/10_pronunciation.md
+    - '11. Distinctions': core_modules/11_distinctions.md
+    - '12. Spoken English': core_modules/12_spoken_english.md
+    - '13. Grammar Codes': core_modules/13_grammar.md
   - Grammar:
     - 'Overview': grammar/index.md
     - 'Verbs': grammar/verbs.md

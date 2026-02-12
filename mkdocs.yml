@@ -33,6 +33,21 @@ nav:
   - Foundations: academic_writing/foundations.md
   - Grammar & Structure: academic_writing/structure.md
   - Vocabulary & Flow: academic_writing/vocabulary.md
+  - Core Modules:
+    - 'Overview': core_modules/index.md
+    - 'Part 1: Fluency': core_modules/01_fluency.md
+    - 'Part 2: Lab Codes': core_modules/02_lab_codes.md
+    - 'Part 3: Tenses': core_modules/03_tenses.md
+    - 'Part 4: Conditionals': core_modules/04_conditionals.md
+    - 'Part 5: Modals': core_modules/05_modals.md
+    - 'Part 6: Parts of Speech': core_modules/06_parts_of_speech.md
+    - 'Part 7: Articles': core_modules/07_articles.md
+    - 'Part 8: Action Verbs': core_modules/08_action_verbs.md
+    - 'Part 9: Idioms': core_modules/09_idioms.md
+    - 'Part 10: Pronunciation': core_modules/10_pronunciation.md
+    - 'Part 11: Distinctions': core_modules/11_distinctions.md
+    - 'Part 12: Spoken English': core_modules/12_spoken_english.md
+    - 'Part 13: Grammar Codes': core_modules/13_grammar.md
 
 copyright: Copyright &copy; 2026 Pulakesh Pradhan
 
